@@ -19,4 +19,4 @@
 ## Tableau dashboard:
 <img src='https://github.com/karan842/LGMVIP-DataScience/blob/master/Global%20Terrorism/Photos/GlobalTerrorism.png' ></img>
 
-#Thank You!
+# Thank You!
